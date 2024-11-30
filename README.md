@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Lê Tuấn Đạt
 * Student ID: 22BI13077
-* Student Group ID: Not-for-now
+* Student Group ID: 6
